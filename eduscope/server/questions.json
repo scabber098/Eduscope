@@ -1,0 +1,734 @@
+[
+  {
+    "topic": "DSA",
+    "difficulty": "easy",
+    "question": "What is the time complexity of binary search?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n^2)",
+      "O(1)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "DSA",
+    "difficulty": "easy",
+    "question": "Which data structure uses LIFO order?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Tree"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "DSA",
+    "difficulty": "easy",
+    "question": "What is the best case time complexity of bubble sort?",
+    "options": [
+      "O(n^2)",
+      "O(n log n)",
+      "O(n)",
+      "O(1)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "DSA",
+    "difficulty": "easy",
+    "question": "Which of these is NOT a linear data structure?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Tree",
+      "Queue"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "DSA",
+    "difficulty": "easy",
+    "question": "What does FIFO stand for?",
+    "options": [
+      "First In First Out",
+      "Fast Input Fast Output",
+      "First Index First Output",
+      "Fixed Input Fixed Output"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "topic": "DSA",
+    "difficulty": "medium",
+    "question": "What is the average time complexity of quicksort?",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(n^2)",
+      "O(log n)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "DSA",
+    "difficulty": "medium",
+    "question": "In a min-heap, where is the smallest element?",
+    "options": [
+      "Last node",
+      "Root",
+      "Random leaf",
+      "Second level"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "DSA",
+    "difficulty": "medium",
+    "question": "What traversal visits: Left, Root, Right?",
+    "options": [
+      "Preorder",
+      "Postorder",
+      "Inorder",
+      "Level order"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "DSA",
+    "difficulty": "medium",
+    "question": "Which algorithm uses divide and conquer?",
+    "options": [
+      "Bubble sort",
+      "Selection sort",
+      "Merge sort",
+      "Insertion sort"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "DSA",
+    "difficulty": "medium",
+    "question": "Space complexity of DFS on a graph with V vertices?",
+    "options": [
+      "O(1)",
+      "O(V)",
+      "O(V^2)",
+      "O(E)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "DSA",
+    "difficulty": "hard",
+    "question": "What is the time complexity of building a heap from n elements?",
+    "options": [
+      "O(n log n)",
+      "O(n)",
+      "O(log n)",
+      "O(n^2)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "DSA",
+    "difficulty": "hard",
+    "question": "Which algorithm finds shortest path in weighted graph with negative edges?",
+    "options": [
+      "Dijkstra",
+      "BFS",
+      "Bellman-Ford",
+      "Prim"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "DSA",
+    "difficulty": "hard",
+    "question": "What is amortized complexity of push in dynamic array?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n^2)",
+      "O(1)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "topic": "Operating Systems",
+    "difficulty": "easy",
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Core Processing Unit",
+      "Central Program Unit",
+      "Computer Processing Unit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Operating Systems",
+    "difficulty": "easy",
+    "question": "What is a deadlock?",
+    "options": [
+      "CPU overheating",
+      "Processes waiting for each other forever",
+      "Memory overflow",
+      "Disk failure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Operating Systems",
+    "difficulty": "easy",
+    "question": "Which scheduling is non-preemptive?",
+    "options": [
+      "Round Robin",
+      "FCFS",
+      "SRTF",
+      "Multilevel Queue"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Operating Systems",
+    "difficulty": "easy",
+    "question": "What is virtual memory?",
+    "options": [
+      "RAM upgrade",
+      "Disk used as RAM extension",
+      "GPU memory",
+      "Cache memory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Operating Systems",
+    "difficulty": "easy",
+    "question": "What does OS stand for?",
+    "options": [
+      "Output System",
+      "Operating System",
+      "Open Source",
+      "Optical Storage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Operating Systems",
+    "difficulty": "medium",
+    "question": "Which page replacement algorithm causes Belady anomaly?",
+    "options": [
+      "LRU",
+      "Optimal",
+      "FIFO",
+      "LFU"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "Operating Systems",
+    "difficulty": "medium",
+    "question": "What is thrashing in OS?",
+    "options": [
+      "High CPU usage",
+      "Excessive paging causing low CPU utilization",
+      "Memory leak",
+      "Process starvation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Operating Systems",
+    "difficulty": "medium",
+    "question": "Which is NOT a condition for deadlock?",
+    "options": [
+      "Mutual Exclusion",
+      "Hold and Wait",
+      "Preemption",
+      "Circular Wait"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "Operating Systems",
+    "difficulty": "medium",
+    "question": "What is a semaphore used for?",
+    "options": [
+      "Memory allocation",
+      "Process synchronization",
+      "File management",
+      "CPU scheduling"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Operating Systems",
+    "difficulty": "medium",
+    "question": "Internal fragmentation occurs in which allocation?",
+    "options": [
+      "Paging",
+      "Segmentation",
+      "Both",
+      "Neither"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Operating Systems",
+    "difficulty": "hard",
+    "question": "What is the banker algorithm used for?",
+    "options": [
+      "CPU scheduling",
+      "Deadlock avoidance",
+      "Memory allocation",
+      "I/O management"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Operating Systems",
+    "difficulty": "hard",
+    "question": "In which scheduling can starvation occur?",
+    "options": [
+      "FCFS",
+      "Round Robin",
+      "Priority Scheduling",
+      "None of these"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "C++",
+    "difficulty": "easy",
+    "question": "Which keyword is used for inheritance in C++?",
+    "options": [
+      "extends",
+      "inherits",
+      ":",
+      "->"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "C++",
+    "difficulty": "easy",
+    "question": "What is the output of cout << 5/2 in C++?",
+    "options": [
+      "2.5",
+      "2",
+      "3",
+      "Error"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "C++",
+    "difficulty": "easy",
+    "question": "Which header file is needed for cout?",
+    "options": [
+      "stdio.h",
+      "conio.h",
+      "iostream",
+      "stdlib.h"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "C++",
+    "difficulty": "easy",
+    "question": "What does OOP stand for?",
+    "options": [
+      "Object Oriented Programming",
+      "Object Output Processing",
+      "Open Object Protocol",
+      "None"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "topic": "C++",
+    "difficulty": "easy",
+    "question": "Which is the correct way to declare a pointer in C++?",
+    "options": [
+      "int p*",
+      "int* p",
+      "pointer int p",
+      "int &p"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "C++",
+    "difficulty": "medium",
+    "question": "What is function overloading?",
+    "options": [
+      "Same function name with different parameters",
+      "Overriding base class method",
+      "Using virtual functions",
+      "Calling a function recursively"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "topic": "C++",
+    "difficulty": "medium",
+    "question": "What is a virtual function?",
+    "options": [
+      "Static method",
+      "Function resolved at runtime (polymorphism)",
+      "Inline function",
+      "Template function"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "C++",
+    "difficulty": "medium",
+    "question": "What does the -> operator do?",
+    "options": [
+      "Arithmetic subtraction",
+      "Access member through pointer",
+      "Bitwise OR",
+      "None"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "C++",
+    "difficulty": "medium",
+    "question": "Which constructor is called during copy?",
+    "options": [
+      "Default",
+      "Parameterized",
+      "Copy",
+      "Destructor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "C++",
+    "difficulty": "medium",
+    "question": "What is RAII in C++?",
+    "options": [
+      "Resource Acquisition Is Initialization",
+      "Runtime Array Index Initialization",
+      "Recursive Algorithm Implementation",
+      "None"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "topic": "C++",
+    "difficulty": "hard",
+    "question": "What is the diamond problem in C++?",
+    "options": [
+      "Pointer issue",
+      "Ambiguity from multiple inheritance",
+      "Stack overflow",
+      "Template error"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "C++",
+    "difficulty": "hard",
+    "question": "Which keyword resolves diamond problem?",
+    "options": [
+      "static",
+      "explicit",
+      "virtual",
+      "override"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "Node.js",
+    "difficulty": "easy",
+    "question": "Node.js is built on which JS engine?",
+    "options": [
+      "SpiderMonkey",
+      "Chakra",
+      "V8",
+      "Rhino"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "Node.js",
+    "difficulty": "easy",
+    "question": "Which module handles file system in Node.js?",
+    "options": [
+      "http",
+      "path",
+      "fs",
+      "os"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "Node.js",
+    "difficulty": "easy",
+    "question": "What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Protocol Module",
+      "Node Process Monitor",
+      "None"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Node.js",
+    "difficulty": "easy",
+    "question": "Node.js is single-threaded. How does it handle concurrency?",
+    "options": [
+      "Multiple threads",
+      "Event loop",
+      "Forking processes",
+      "GPU"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Node.js",
+    "difficulty": "easy",
+    "question": "Which method starts an HTTP server in Node.js?",
+    "options": [
+      "server.begin()",
+      "server.start()",
+      "server.listen()",
+      "server.run()"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "Node.js",
+    "difficulty": "medium",
+    "question": "What does middleware do in Express?",
+    "options": [
+      "Handles DB",
+      "Processes req/res in pipeline",
+      "Renders HTML",
+      "Manages sessions only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Node.js",
+    "difficulty": "medium",
+    "question": "What is the event loop?",
+    "options": [
+      "Infinite game loop",
+      "Mechanism handling async ops",
+      "Thread pool",
+      "Memory manager"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Node.js",
+    "difficulty": "medium",
+    "question": "Which is used to avoid callback hell?",
+    "options": [
+      "More callbacks",
+      "Promises/async-await",
+      "Global vars",
+      "eval()"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Node.js",
+    "difficulty": "medium",
+    "question": "What does require() do?",
+    "options": [
+      "Imports a module",
+      "Exports a module",
+      "Creates server",
+      "Reads file"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Node.js",
+    "difficulty": "medium",
+    "question": "Which status code means Not Found?",
+    "options": [
+      "200",
+      "301",
+      "404",
+      "500"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "Node.js",
+    "difficulty": "hard",
+    "question": "What is libuv in Node.js?",
+    "options": [
+      "A logging lib",
+      "C library providing event loop and thread pool",
+      "A templating engine",
+      "A test framework"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Node.js",
+    "difficulty": "hard",
+    "question": "What is the purpose of cluster module?",
+    "options": [
+      "DB clustering",
+      "Fork child processes to use multi-core CPUs",
+      "CSS clustering",
+      "Memory management"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Frontend",
+    "difficulty": "easy",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Modern Language",
+      "Hyperlink Text Method Language",
+      "None"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Frontend",
+    "difficulty": "easy",
+    "question": "Which CSS property controls text color?",
+    "options": [
+      "font-color",
+      "text-color",
+      "color",
+      "foreground"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "Frontend",
+    "difficulty": "easy",
+    "question": "Which HTML tag creates a hyperlink?",
+    "options": [
+      "<link>",
+      "<a>",
+      "<href>",
+      "<url>"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Frontend",
+    "difficulty": "easy",
+    "question": "What is the box model in CSS?",
+    "options": [
+      "3D rendering model",
+      "content+padding+border+margin",
+      "Flexbox layout",
+      "Grid system"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Frontend",
+    "difficulty": "easy",
+    "question": "Which JS method selects element by ID?",
+    "options": [
+      "document.query()",
+      "document.getElement()",
+      "document.getElementById()",
+      "document.findId()"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "Frontend",
+    "difficulty": "medium",
+    "question": "What is the virtual DOM in React?",
+    "options": [
+      "Server-side DOM",
+      "In-memory representation of real DOM",
+      "Browser cache",
+      "None"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Frontend",
+    "difficulty": "medium",
+    "question": "What does useState return in React?",
+    "options": [
+      "State value only",
+      "Setter only",
+      "[state, setter] array",
+      "Object with state"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "topic": "Frontend",
+    "difficulty": "medium",
+    "question": "What is CSS specificity?",
+    "options": [
+      "Animation speed",
+      "Priority of CSS rules",
+      "Font size unit",
+      "Media query breakpoint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Frontend",
+    "difficulty": "medium",
+    "question": "What does async/await simplify?",
+    "options": [
+      "Loops",
+      "Promise handling",
+      "DOM manipulation",
+      "CSS transitions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Frontend",
+    "difficulty": "medium",
+    "question": "What is CORS?",
+    "options": [
+      "A CSS rule",
+      "Cross-Origin Resource Sharing",
+      "Cookie validation",
+      "Client-side rendering"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Frontend",
+    "difficulty": "hard",
+    "question": "What is code splitting in webpack?",
+    "options": [
+      "Splitting CSS files",
+      "Breaking JS bundle into smaller chunks loaded on demand",
+      "Splitting HTML",
+      "None"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Frontend",
+    "difficulty": "hard",
+    "question": "What is the key prop used for in React lists?",
+    "options": [
+      "Styling",
+      "Identifying elements for efficient re-renders",
+      "Event handling",
+      "Animation"
+    ],
+    "correctIndex": 1
+  }
+]

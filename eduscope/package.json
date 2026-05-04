@@ -1,0 +1,11 @@
+{
+  "name": "eduscope",
+  "version": "3.0.0",
+  "description": "EDUSCOPE — Multi-university analytics platform",
+  "scripts": {
+    "install:all": "cd server && npm install && cd ../client && npm install",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "start:server": "cd server && npm start"
+  }
+}
